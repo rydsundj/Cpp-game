@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/rydsundj/liu/tdp005/build",
+  "command": "/usr/bin/g++-10   -g -o CMakeFiles/EXECUTABLE.dir/sfml.cpp.o -c /home/rydsundj/liu/tdp005/sfml.cpp",
+  "file": "/home/rydsundj/liu/tdp005/sfml.cpp"
+}
+]

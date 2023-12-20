@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="tdp005"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\..\;CMake Files\..\..\..\..\..\usr\;CMake Files\..\..\..\..\..\usr\lib\;CMake Files\..\..\..\..\..\usr\lib\x86_64-linux-gnu\;CMake Files\..\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\;CMake Files\..\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\SFML\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/isaer141/TDP005/tdp005/game_temp/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/bin/make -j20 -f &quot;/home/isaer141/TDP005/tdp005/game_temp/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/bin/make -j20 -f &quot;/home/isaer141/TDP005/tdp005/game_temp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/bin/make -j20 -f &quot;/home/isaer141/TDP005/tdp005/game_temp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/bin/make -j20 -f &quot;/home/isaer141/TDP005/tdp005/game_temp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="EXECUTABLE">
+				<Option output="/home/isaer141/TDP005/tdp005/game_temp/cmake-build-debug/EXECUTABLE" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/isaer141/TDP005/tdp005/game_temp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/bin/make -j20 -f &quot;/home/isaer141/TDP005/tdp005/game_temp/cmake-build-debug/Makefile&quot;  VERBOSE=1 EXECUTABLE"/>
+					<CompileFile command="/bin/make -j20 -f &quot;/home/isaer141/TDP005/tdp005/game_temp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/bin/make -j20 -f &quot;/home/isaer141/TDP005/tdp005/game_temp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/bin/make -j20 -f &quot;/home/isaer141/TDP005/tdp005/game_temp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="EXECUTABLE/fast">
+				<Option output="/home/isaer141/TDP005/tdp005/game_temp/cmake-build-debug/EXECUTABLE" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/isaer141/TDP005/tdp005/game_temp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/bin/make -j20 -f &quot;/home/isaer141/TDP005/tdp005/game_temp/cmake-build-debug/Makefile&quot;  VERBOSE=1 EXECUTABLE/fast"/>
+					<CompileFile command="/bin/make -j20 -f &quot;/home/isaer141/TDP005/tdp005/game_temp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/bin/make -j20 -f &quot;/home/isaer141/TDP005/tdp005/game_temp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/bin/make -j20 -f &quot;/home/isaer141/TDP005/tdp005/game_temp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/isaer141/TDP005/tdp005/game_temp/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/bin/make -j20 -f &quot;/home/isaer141/TDP005/tdp005/game_temp/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/bin/make -j20 -f &quot;/home/isaer141/TDP005/tdp005/game_temp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/bin/make -j20 -f &quot;/home/isaer141/TDP005/tdp005/game_temp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/bin/make -j20 -f &quot;/home/isaer141/TDP005/tdp005/game_temp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/isaer141/TDP005/tdp005/game_temp/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/bin/make -j20 -f &quot;/home/isaer141/TDP005/tdp005/game_temp/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/bin/make -j20 -f &quot;/home/isaer141/TDP005/tdp005/game_temp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/bin/make -j20 -f &quot;/home/isaer141/TDP005/tdp005/game_temp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/bin/make -j20 -f &quot;/home/isaer141/TDP005/tdp005/game_temp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/isaer141/TDP005/tdp005/game_temp/Background/Background.cpp">
+			<Option target="EXECUTABLE"/>
+		</Unit>
+		<Unit filename="/home/isaer141/TDP005/tdp005/game_temp/Background/Background.h">
+			<Option target="EXECUTABLE"/>
+		</Unit>
+		<Unit filename="/home/isaer141/TDP005/tdp005/game_temp/Bullet/Bullet.cpp">
+			<Option target="EXECUTABLE"/>
+		</Unit>
+		<Unit filename="/home/isaer141/TDP005/tdp005/game_temp/Bullet/Bullet.h">
+			<Option target="EXECUTABLE"/>
+		</Unit>
+		<Unit filename="/home/isaer141/TDP005/tdp005/game_temp/CapyBoss/CapyBoss.cpp">
+			<Option target="EXECUTABLE"/>
+		</Unit>
+		<Unit filename="/home/isaer141/TDP005/tdp005/game_temp/CapyBoss/CapyBoss.h">
+			<Option target="EXECUTABLE"/>
+		</Unit>
+		<Unit filename="/home/isaer141/TDP005/tdp005/game_temp/Capybara/Capybara.cpp">
+			<Option target="EXECUTABLE"/>
+		</Unit>
+		<Unit filename="/home/isaer141/TDP005/tdp005/game_temp/Capybara/Capybara.h">
+			<Option target="EXECUTABLE"/>
+		</Unit>
+		<Unit filename="/home/isaer141/TDP005/tdp005/game_temp/Character/Character.cpp">
+			<Option target="EXECUTABLE"/>
+		</Unit>
+		<Unit filename="/home/isaer141/TDP005/tdp005/game_temp/Character/Character.h">
+			<Option target="EXECUTABLE"/>
+		</Unit>
+		<Unit filename="/home/isaer141/TDP005/tdp005/game_temp/EndState/EndState.cpp">
+			<Option target="EXECUTABLE"/>
+		</Unit>
+		<Unit filename="/home/isaer141/TDP005/tdp005/game_temp/EndState/EndState.h">
+			<Option target="EXECUTABLE"/>
+		</Unit>
+		<Unit filename="/home/isaer141/TDP005/tdp005/game_temp/Enemy/Enemy.cpp">
+			<Option target="EXECUTABLE"/>
+		</Unit>
+		<Unit filename="/home/isaer141/TDP005/tdp005/game_temp/Enemy/Enemy.h">
+			<Option target="EXECUTABLE"/>
+		</Unit>
+		<Unit filename="/home/isaer141/TDP005/tdp005/game_temp/Game/Game.cpp">
+			<Option target="EXECUTABLE"/>
+		</Unit>
+		<Unit filename="/home/isaer141/TDP005/tdp005/game_temp/Game/Game.h">
+			<Option target="EXECUTABLE"/>
+		</Unit>
+		<Unit filename="/home/isaer141/TDP005/tdp005/game_temp/MenuState/MenuState.cpp">
+			<Option target="EXECUTABLE"/>
+		</Unit>
+		<Unit filename="/home/isaer141/TDP005/tdp005/game_temp/MenuState/MenuState.h">
+			<Option target="EXECUTABLE"/>
+		</Unit>
+		<Unit filename="/home/isaer141/TDP005/tdp005/game_temp/Object/Object.cpp">
+			<Option target="EXECUTABLE"/>
+		</Unit>
+		<Unit filename="/home/isaer141/TDP005/tdp005/game_temp/Object/Object.h">
+			<Option target="EXECUTABLE"/>
+		</Unit>
+		<Unit filename="/home/isaer141/TDP005/tdp005/game_temp/Player/Player.cpp">
+			<Option target="EXECUTABLE"/>
+		</Unit>
+		<Unit filename="/home/isaer141/TDP005/tdp005/game_temp/Player/Player.h">
+			<Option target="EXECUTABLE"/>
+		</Unit>
+		<Unit filename="/home/isaer141/TDP005/tdp005/game_temp/Score/Score.cpp">
+			<Option target="EXECUTABLE"/>
+		</Unit>
+		<Unit filename="/home/isaer141/TDP005/tdp005/game_temp/Score/Score.h">
+			<Option target="EXECUTABLE"/>
+		</Unit>
+		<Unit filename="/home/isaer141/TDP005/tdp005/game_temp/State/State.cpp">
+			<Option target="EXECUTABLE"/>
+		</Unit>
+		<Unit filename="/home/isaer141/TDP005/tdp005/game_temp/State/State.h">
+			<Option target="EXECUTABLE"/>
+		</Unit>
+		<Unit filename="/home/isaer141/TDP005/tdp005/game_temp/sfml.cpp">
+			<Option target="EXECUTABLE"/>
+		</Unit>
+		<Unit filename="/home/isaer141/TDP005/tdp005/game_temp/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/isaer141/TDP005/tdp005/game_temp/../../../../../usr/lib/x86_64-linux-gnu/cmake/SFML/SFMLConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="/home/isaer141/TDP005/tdp005/game_temp/../../../../../usr/lib/x86_64-linux-gnu/cmake/SFML/SFMLConfigDependencies.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="/home/isaer141/TDP005/tdp005/game_temp/../../../../../usr/lib/x86_64-linux-gnu/cmake/SFML/SFMLConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="/home/isaer141/TDP005/tdp005/game_temp/../../../../../usr/lib/x86_64-linux-gnu/cmake/SFML/SFMLSharedTargets-none.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="/home/isaer141/TDP005/tdp005/game_temp/../../../../../usr/lib/x86_64-linux-gnu/cmake/SFML/SFMLSharedTargets.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\SFML\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
