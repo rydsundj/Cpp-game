@@ -1,3 +1,0 @@
-/home/rydsundj/kod/Finished-projects/Capyking/cmake-build-debug/CMakeFiles/EXECUTABLE.dir
-/home/rydsundj/kod/Finished-projects/Capyking/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/rydsundj/kod/Finished-projects/Capyking/cmake-build-debug/CMakeFiles/rebuild_cache.dir
